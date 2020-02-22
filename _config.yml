@@ -19,3 +19,5 @@ github_username:  christianchomiak
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
