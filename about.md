@@ -12,4 +12,4 @@ Previously, I worked on [Red Dead Redemption 2](https://www.rockstargames.com/re
 
 I also have a blog, [**[](){} No Man's Lambda**](http://nomanslambda.com/). There, I write about programming, game development and some other things.
 
-
+Hope you have a great day, thanks for passing by!
