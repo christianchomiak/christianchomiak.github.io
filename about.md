@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Why, hello there!
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+My name is Christian and I'm a Gameplay Programmer currently working at [Darewise Entertainment](http://darewise.com/), developing [Life Beyond](https://www.playlifebeyond.com/).
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Previously, I worked on [Red Dead Redemption 2](https://www.rockstargames.com/reddeadredemption2/) at [Rockstar North](https://www.rockstarnorth.com/).
+
+I also have a blog, [**[](){} No Man's Lambda**](http://nomanslambda.com/). There, I write about programming, game development and some other things.
+
+
